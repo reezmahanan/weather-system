@@ -129,12 +129,12 @@ This project teaches:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/reezmahanan)
+- GitHub: [@reezmahanan](https://github.com/reezmahanan)
 - Email: reezmahanan@gmail.com
 
 ## Acknowledgments
