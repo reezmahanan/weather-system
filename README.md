@@ -28,9 +28,9 @@ A realistic weather simulation system built with Python and Pygame, featuring dy
 
 ## Screenshots
 
-| Clear Sky | Rain Storm | Snow | Lightning |
-|-----------|------------|------|-----------|
-| ![Clear](screenshots/clear.png) | ![Rain](screenshots/rain.png) | ![Snow](screenshots/snow.png) | ![Lightning](screenshots/lightning.png) |
+| Clear Sky | Rain Storm | Snow |Rain |Hail |
+|-----------|------------|------|-----------|-----------|
+| ![Clear](screenshots/clear.png) | ![Rain](screenshots/rain.png) | ![Snow](screenshots/snow.png) | ![Lightning](screenshots/lightning.png) |![Hail](screenshots/lightning.png) |
 
 ## Installation
 
