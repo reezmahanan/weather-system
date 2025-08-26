@@ -28,9 +28,9 @@ A realistic weather simulation system built with Python and Pygame, featuring dy
 
 ## Screenshots
 
-| Clear Sky | Rain Storm | Snow |Rain |Hail |
+| Clear Sky | Rain | Snow |Storm |Hail |
 |-----------|------------|------|-----------|-----------|
-| ![Clear](https://github.com/reezmahanan/weather-system/blob/main/clear.png) | ![Rain](https://github.com/reezmahanan/weather-system/blob/main/rain.png) | ![Snow](screenshots/snow.png) | ![storm](https://github.com/reezmahanan/weather-system/blob/main/storm.png) |![Hail](https://github.com/reezmahanan/weather-system/blob/main/hail.png) |
+| ![Clear](https://github.com/reezmahanan/weather-system/blob/main/clear.png) | ![Rain](https://github.com/reezmahanan/weather-system/blob/main/rain.png) | ![Snow](https://github.com/reezmahanan/weather-system/blob/main/snow.png) | ![storm](https://github.com/reezmahanan/weather-system/blob/main/storm.png) |![Hail](https://github.com/reezmahanan/weather-system/blob/main/hail.png) |
 
 ## Installation
 
