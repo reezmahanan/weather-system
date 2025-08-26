@@ -2,7 +2,7 @@
 
 A realistic weather simulation system built with Python and Pygame, featuring dynamic weather patterns, particle systems, and interactive controls.
 
-![Weather System Demo](demo.gif)
+
 
 ## Features
 
@@ -30,7 +30,7 @@ A realistic weather simulation system built with Python and Pygame, featuring dy
 
 | Clear Sky | Rain Storm | Snow |Rain |Hail |
 |-----------|------------|------|-----------|-----------|
-| ![Clear](screenshots/clear.png) | ![Rain](screenshots/rain.png) | ![Snow](screenshots/snow.png) | ![Lightning](screenshots/lightning.png) |![Hail](screenshots/lightning.png) |
+| ![Clear](https://github.com/reezmahanan/weather-system/blob/main/clear.png) | ![Rain](screenshots/rain.png) | ![Snow](screenshots/snow.png) | ![Lightning](screenshots/lightning.png) |![Hail](screenshots/lightning.png) |
 
 ## Installation
 
